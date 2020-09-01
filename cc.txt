@@ -2,8 +2,13 @@ coding challenge for week 02 day 01
 <<<<<<< HEAD
 this is third commit in master branch
 this is fourth commit in master branch
+<<<<<<< HEAD
 this is fifth commit in master branch
 =======
 first commit in purple branch
 second commit in purple branch
 >>>>>>> purple
+=======
+this is first commit in green branch
+This is second commit in green branch
+>>>>>>> green
