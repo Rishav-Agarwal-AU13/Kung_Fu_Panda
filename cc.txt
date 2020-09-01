@@ -1,1 +1,1 @@
-cc for week 02 day 01
+coding challenge for week 02 day 01
